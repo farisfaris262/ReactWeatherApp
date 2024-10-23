@@ -31,7 +31,7 @@ export default function Weather() {
     "10d": rain_icon,
     "10n": rain_icon,
 
-    "13n": snow_icon,
+    "13d": snow_icon,
     "13n": snow_icon,
   };
 
